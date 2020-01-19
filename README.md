@@ -9,5 +9,5 @@ cd xdn-installer
 sudo bash xdn-installer.sh
 ```
 Select option 3.
-NB If you do not want to recreate a new DigitlaNote.conf file after the compile, press <crtl> + <c> to terminate the script when it asks you to enter an RPC user name.
+NB If you do not want to recreate a new DigitlaNote.conf file after the compile, press ```<crtl> + <c>``` to terminate the script when it asks you to enter an RPC user name.
 
