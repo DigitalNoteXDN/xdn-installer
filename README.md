@@ -2,6 +2,7 @@
 Bash script for installing DigitalNote masternode and wallets for Linux 16.x and 18.x
 
 To compile wallets:
+
 sudo -i
 git clone https://github.com/rubber-duckie-au/xdn-installer.git
 cd xdn-installer
